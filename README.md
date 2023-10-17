@@ -1,6 +1,6 @@
 # Hi, I'm Mohammadreza Namjoo 👋
 
-I'm a passionate Blockchain and Full Stack Developer. Welcome to my GitHub profile!
+I'm a passionate Blockchain Developer and Full Stack Developer. Welcome to my GitHub profile!
 
 🌐 **Website:** [Your Portfolio Website](https://yourwebsite.com)
 📧 **Email:** [Your Email](mailto:youremail@example.com)
