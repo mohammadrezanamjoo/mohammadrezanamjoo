@@ -34,7 +34,7 @@ I'm a blockchain enthusiast and a full stack developer with a love for cutting-e
 
 ### Cloud Services
 - AWS
-- 
+
 ### Containerization and Orchestration
 - Docker, Kubernetes
 
