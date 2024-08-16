@@ -69,8 +69,16 @@ I'm a blockchain enthusiast and a full stack developer with a love for cutting-e
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/yourusername/project1) - Description of the project.
-- [Project 2](https://github.com/yourusername/project2) - Description of the project.
+- Hamrahbours App: Developed for Iran's stock market companies, this app serves over 300,000 users, managing complex data processing tasks. It includes a PWA and an Android version, simplifying processes for companies and investors.
+  
+- Shahnegar App: An app that automates the weaving of Iranian traditional carpets and rugs, featuring a weaver app and a producer dashboard for tracking progress and financials.
+  
+- Whale (Nahang) App: A web-based crypto trade assistant that includes portfolio management, on-chain data, market analyses, notifications, and AI analyses. It was developed using NodeJS, ReactJS, MongoDB, MySQL, RabbitMQ, and Kubernetes.
+  
+- Magnetxt App: A backend system for a trade assistant and auto trade system for cryptocurrencies, featuring AI-based algorithms and telegram bots. It is currently in the beta test stage.
+  
+- Tali App: A blockchain-based application that tokenizes states using Hyperledger and Stellar, enabling users to invest in the property market regardless of their financial level.
+
 
 ## 🤝 Let's Connect
 
